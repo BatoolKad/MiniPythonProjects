@@ -16,17 +16,13 @@ In this repository, you will find a curated list of Python projects, each focusi
 
 ## Project List
 
-- **Project 1: Data Manipulation**
-  - Description: Explore data manipulation techniques using libraries like Pandas and NumPy.
 
-- **Project 2: Web Scraping**
+- **Project 1: Functional Programming**
   - Description: Learn how to extract data from websites using Python's web scraping tools.
 
-- **Project 3: Algorithm Challenges**
+- **Project 2: Algorithm Challenges**
   - Description: Solve algorithmic challenges to improve your problem-solving skills.
 
-- **Project 4: Web Development Basics**
-  - Description: Build a simple web application using a Python web framework.
 
 ... (and more projects to explore!)
 
