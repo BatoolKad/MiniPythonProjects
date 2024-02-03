@@ -12,7 +12,7 @@ Welcome to the MiniPythonProjects repository! This collection of mini projects i
 
 ## Introduction
 
-In this repository, you will find a curated list of Python projects, each focusing on specific aspects of the language. The projects cover a range of topics, including data manipulation, algorithms, web development, and more. The goal is to provide a hands-on learning experience that not only reinforces your Python skills but also encourages creativity and problem-solving.
+In this repository, you will find a curated list of Python projects, each focusing on specific aspects of the language. The projects cover a range of topics, including data manipulation, algorithms, web development, and Generative AI. The goal is to provide a hands-on learning experience that reinforces your Python skills and encourages creativity and problem-solving.
 
 ## Project List
 
